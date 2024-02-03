@@ -4,13 +4,13 @@
   "description": "HelpingHandout - Project for Black Wings Hacks",
   "main": "app.js",
   "type": "module",
-
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Shumeng(Cassie) Guo, Harika Bale, Mabel Furutsuki, Monica Lee",
   "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongoose": "^8.1.1"
   }
