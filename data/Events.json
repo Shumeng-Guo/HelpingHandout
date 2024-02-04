@@ -2,26 +2,26 @@
     {
       "image": "https://example.com/event_image1.jpg",
       "location": {
-        "city": "Cityville",
-        "state": "Stateville"
+        "city": "Boston",
+        "state": "MA"
       },
-      "description": "Join us for a community picnic in the park!"
+      "description": "Join Star Market to help bag “extra produce bags” that will be donated to the Boston Food Bank! Extra produce that is too good to throw out is donated to local shelters every week."
     },
     {
       "image": "https://example.com/event_image2.jpg",
       "location": {
-        "city": "Townsville",
-        "state": "Stateland"
+        "city": "New York",
+        "state": "NY"
       },
-      "description": "Art exhibition showcasing local talents at the Town Hall."
+      "description": "Lululemon is hosting workshops for mending their pre-loved collection which will be donated to local shelters all over New York!"
     },
     {
       "image": "https://example.com/event_image3.jpg",
       "location": {
-        "city": "Villageville",
-        "state": "Countryland"
+        "city": "Los Angeles",
+        "state": "CA"
       },
-      "description": "Charity run to raise funds for local schools."
+      "description": "Help the Los Angeles Regional Food Bank hand out food and create food packages to deliver!"
     }
   ]
 

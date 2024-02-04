@@ -1,35 +1,182 @@
 [
-    {
-      "category": "Electronics",
-      "zipcode": "12345",
-      "description": "Brand new smartphone for sale",
-      "location": {
-        "city": "Cityville",
-        "state": "Stateville"
-      },
-      "isLocal": true,
-      "image": "https://example.com/electronics_image.jpg"
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "Dough Zone",
+    "description": "15 Chinese Meals",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
     },
-    {
-      "category": "Furniture",
-      "zipcode": "67890",
-      "description": "Modern coffee table in excellent condition",
-      "location": {
-        "city": "Townsville",
-        "state": "Stateland"
-      },
-      "isLocal": false,
-      "image": "https://example.com/furniture_image.jpg"
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "99 Ranch Market",
+    "description": "5 Grocery Bags",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
     },
-    {
-      "category": "Clothing",
-      "zipcode": "54321",
-      "description": "Designer jacket for winter",
-      "location": {
-        "city": "Villageville",
-        "state": "Countryland"
-      },
-      "isLocal": true,
-      "image": "https://example.com/clothing_image.jpg"
-    }
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "Eataly",
+    "description": "9 Mystery Bags",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "Poke House",
+    "description": "5 Salmon Poke Bowls",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "Evergreen Market",
+    "description": "7 Loaves of Bread",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "3 Brothers Kitchen",
+    "description": "12 Taco Meals",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "95131",
+    "donor": "Mac + Cheese Kitchen",
+    "description": "10 To Go Mac & Cheese Bowls",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "000000",
+    "donor": "Mi Corazon",
+    "description": "10 Taco Meals",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "000000",
+    "donor": "CoolMess",
+    "description": "5 Gallon Ice Cream",
+    "location": {
+      "city": "New York",
+      "state": "NY"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "000000",
+    "donor": "Imperfect Foods",
+    "description": "6 50lb Food Packages",
+    "location": {
+      "city": "Boston",
+      "state": "MA"
+    },
+    "isLocal": false,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Clothing",
+    "zipcode": "000000",
+    "donor": "Nike",
+    "description": "500 Pairs of Tennis Shoes",
+    "location": {
+      "city": "Los Angeles",
+      "state": "CA"
+    },
+    "isLocal": false,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Clothing",
+    "zipcode": "000000",
+    "donor": "Lululemon",
+    "description": "30 Athleisure Jackets",
+    "location": {
+      "city": "San Francisco",
+      "state": "CA"
+    },
+    "isLocal": false,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Clothing",
+    "zipcode": "000000",
+    "donor": "Goodwill",
+    "description": "40 Winter Jackets",
+    "location": {
+      "city": "Ithaca",
+      "state": "NY"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "000000",
+    "donor": "Bank Banana Bread",
+    "description": "40 Loaves of Banana Bread",
+    "location": {
+      "city": "Brooklyn",
+      "state": "NY"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  },
+  {
+    "category": "Food",
+    "zipcode": "000000",
+    "donor": "3 Brothers Kitchen",
+    "description": "12 Taco Meals",
+    "location": {
+      "city": "San Jose",
+      "state": "CA"
+    },
+    "isLocal": true,
+    "image": "https://example.com/clothing_image.jpg"
+  }
   ]

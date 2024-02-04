@@ -1,23 +1,31 @@
 [
     {
-      "organizer": "Community Outreach Group",
-      "description": "Join our team to make a positive impact in the community!",
+      "organizer": "Goodwill",
+      "description": "Organize clothing donations with us",
       "images": [
         "https://example.com/volunteer_image1.jpg",
         "https://example.com/volunteer_image2.jpg"
       ]
     },
     {
-      "organizer": "Environmental Conservation Society",
-      "description": "Help protect the environment by volunteering with us.",
+      "organizer": "Evergreen Market",
+      "description": "Deliver bread donations to local shelter",
       "images": [
         "https://example.com/volunteer_image3.jpg",
         "https://example.com/volunteer_image4.jpg"
       ]
     },
     {
-      "organizer": "Local Food Bank",
-      "description": "Support the fight against hunger by volunteering at our food bank.",
+      "organizer": "Eataly",
+      "description": "Deliver mystery food bags to shelter.",
+      "images": [
+        "https://example.com/volunteer_image5.jpg",
+        "https://example.com/volunteer_image6.jpg"
+      ]
+    },
+    {
+      "organizer": "99 Ranch Market",
+      "description": "Help pack produce bags for shelter.",
       "images": [
         "https://example.com/volunteer_image5.jpg",
         "https://example.com/volunteer_image6.jpg"
