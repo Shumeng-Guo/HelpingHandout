@@ -1,5 +1,4 @@
-{
-  "listings": [
+[
     {
       "category": "Electronics",
       "zipcode": "12345",
@@ -34,4 +33,3 @@
       "image": "https://example.com/clothing_image.jpg"
     }
   ]
-}

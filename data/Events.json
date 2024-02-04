@@ -1,5 +1,4 @@
-{
-  "events": [
+[
     {
       "image": "https://example.com/event_image1.jpg",
       "location": {
@@ -25,4 +24,4 @@
       "description": "Charity run to raise funds for local schools."
     }
   ]
-}
+
