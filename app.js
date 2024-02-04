@@ -12,6 +12,10 @@ test(app);
 app.get('/start', (req, res) => {res.send("HelpingHandout server is up and running!")})
 // app.listen(4000)
 
+app.get('/listings', (req, res) => {
+  console.log(`You reached the listings page. What is ${req.query.paramWhat} and where is ${req.query.paramWhere}`)
+})
+
 app.listen(PORT, () => {
     console.log(`Server listening on port ${PORT}`);
   });
