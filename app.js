@@ -54,23 +54,23 @@ loadVolunteerData()
 
 
 app.get('/listings', async (req, res) => {
-  console.log(`You reached the listings page. What is ${req.query.paramWhat} and where is ${req.query.paramWhere}`);
+  // console.log(`You reached the listings page. What is ${req.query.paramWhat} and where is ${req.query.paramWhere}`);
+  console.log(listingsData);
   res.json(listingsData);
 });
 
 
 function searchListings(what, where) {
   return listingsData.filter((listing) => {
-    return listing.category.toLowerCase().includes(what.toLowerCase()) && listing.location.city.toLowerCase().includes(where.toLowerCase());
+    return listing.category.toLowerCase().includes(what.toLowerCase()) && listing.zipcode.includes(where);
   });
 }
-
-// console.log(searchListings('furniture', 'townsville')); 
 
 app.get('/listings/search', (req, res) => {
   const what = req.query.paramWhat;
   const where = req.query.paramWhere;
   console.log(`You reached the listings page. What is ${what} and where is ${where}`);
+  console.log(listingsData);
 
   try {
     const results = searchListings(what, where);
@@ -88,7 +88,7 @@ app.get('/volunteerwithus/events', async (req, res) => {
 });
 
 
-app.get('/volunteerwithus/flashvolunteers', async (req, res) => {
+app.get('/volunteerwithus', async (req, res) => {
   res.json(flashVolunteersData);
 });
 
