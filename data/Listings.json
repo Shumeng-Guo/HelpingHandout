@@ -1,0 +1,37 @@
+{
+  "listings": [
+    {
+      "category": "Electronics",
+      "zipcode": "12345",
+      "description": "Brand new smartphone for sale",
+      "location": {
+        "city": "Cityville",
+        "state": "Stateville"
+      },
+      "isLocal": true,
+      "image": "https://example.com/electronics_image.jpg"
+    },
+    {
+      "category": "Furniture",
+      "zipcode": "67890",
+      "description": "Modern coffee table in excellent condition",
+      "location": {
+        "city": "Townsville",
+        "state": "Stateland"
+      },
+      "isLocal": false,
+      "image": "https://example.com/furniture_image.jpg"
+    },
+    {
+      "category": "Clothing",
+      "zipcode": "54321",
+      "description": "Designer jacket for winter",
+      "location": {
+        "city": "Villageville",
+        "state": "Countryland"
+      },
+      "isLocal": true,
+      "image": "https://example.com/clothing_image.jpg"
+    }
+  ]
+}

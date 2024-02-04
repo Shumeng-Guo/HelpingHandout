@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "image": "https://example.com/event_image1.jpg",
+      "location": {
+        "city": "Cityville",
+        "state": "Stateville"
+      },
+      "description": "Join us for a community picnic in the park!"
+    },
+    {
+      "image": "https://example.com/event_image2.jpg",
+      "location": {
+        "city": "Townsville",
+        "state": "Stateland"
+      },
+      "description": "Art exhibition showcasing local talents at the Town Hall."
+    },
+    {
+      "image": "https://example.com/event_image3.jpg",
+      "location": {
+        "city": "Villageville",
+        "state": "Countryland"
+      },
+      "description": "Charity run to raise funds for local schools."
+    }
+  ]
+}
